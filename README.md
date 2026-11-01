@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Aditya Yadav👋
 
 ### 🚀 About Me
 I am a passionate software developer focused on building clean, efficient, and user-friendly applications. 
