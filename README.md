@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm [Your Name]! 👋
 
-<!--
-**aditya-only/aditya-only** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### 🚀 About Me
+I am a passionate software developer focused on building clean, efficient, and user-friendly applications. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Tech Stack
+<!-- You can list them simply here or use icons later -->
+- **Languages:** JavaScript, Python, HTML/CSS
+- **Frameworks:** React, Node.js
+
+### 📬 Connect with Me
+- [LinkedIn](your-linkedin-link)
+- [Portfolio Website](your-portfolio-link)
